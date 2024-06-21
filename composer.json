@@ -20,6 +20,7 @@
     "platform": {
     }
   },
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "tgMdk\\": "src/tgMdk/"
